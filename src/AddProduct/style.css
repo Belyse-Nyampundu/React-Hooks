@@ -1,0 +1,18 @@
+
+.input_product{
+    text-align: center;
+    padding: 7%;
+    color: #1e3d59;
+}
+.input_product > input{
+    padding: 13px;
+    width: 40%;
+}
+.input_product > button{
+    padding: 10px;
+    width: 10%;
+    font-size: 10px;
+    background-color: #1e3d59;
+    border: none;
+    color: white;
+}

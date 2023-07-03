@@ -1,0 +1,33 @@
+.form{
+    text-align: center;
+ 
+
+}
+.form > input{
+    padding: 10px;
+    width: 30%;
+}
+ /* button{
+    padding: 8px;
+    width: 7%;
+    background-color: #1e3d59;
+    border:none;
+    border-radius: 7px;
+    color: white;
+} */
+.submit:hover{
+    background-color: #c6d7eb;
+    color: black;
+    cursor: pointer;
+}
+.form > h1{
+    color: #1e3d59;
+}
+.submit{
+    padding: 8px;
+    width: 7%;
+    background-color: #1e3d59;
+    border:none;
+    border-radius: 7px;
+    color: white;
+}
